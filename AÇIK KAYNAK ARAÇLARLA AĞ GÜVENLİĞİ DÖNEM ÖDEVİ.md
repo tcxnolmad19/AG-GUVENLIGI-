@@ -456,6 +456,6 @@ Risk Analizi Ve Güvenlik Matrislerinin Oluşturulması
 - Güvenlik politikası değişen tehditlere, zayıflıklara ve kurum politikalarına göre yeniden değerlendirilmeli ve gerekli değişiklikler yapılmalıdır
 
 
-`                                            `**HAZIRLAYAN :SELÇUK BİLGİN - 402527**
+`                                            `
 
 
